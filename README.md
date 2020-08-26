@@ -1,2 +1,2 @@
 # nodejs-api
- API NodeJS + Express + Mongo
+Example of API NodeJS + Express + Mongo with JWT Authorization
